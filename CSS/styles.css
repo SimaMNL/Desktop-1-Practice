@@ -1,0 +1,9 @@
+* {
+  font-family: "Open Sans", sans-serif;
+}
+
+ul,
+li {
+  text-decoration: none;
+  list-style: none;
+}
